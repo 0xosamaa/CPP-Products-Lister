@@ -1,0 +1,4 @@
+﻿  fileSystem.cpp
+C:\Users\mohd_\Desktop\iti\study_group\fileSystem\fileSystem\fileSystem.cpp(87,42): error C2065: 'now': undeclared identifier
+C:\Users\mohd_\Desktop\iti\study_group\fileSystem\fileSystem\fileSystem.cpp(87,74): error C2065: 'now': undeclared identifier
+C:\Users\mohd_\Desktop\iti\study_group\fileSystem\fileSystem\fileSystem.cpp(87,101): error C2065: 'now': undeclared identifier
